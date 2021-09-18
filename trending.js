@@ -1,6 +1,6 @@
 console.log("Testing Giphy API 🚀");
 
-let API_KEY = "Your api key";
+let API_KEY = "Your api key here";
 let BASE_URL = "https://api.giphy.com/v1/stickers/trending";
 
 /*
