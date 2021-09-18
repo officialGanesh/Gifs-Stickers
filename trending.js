@@ -1,7 +1,7 @@
 console.log("Testing Giphy API 🚀");
 
-API_KEY = "hmXGRe6QrVW6TeCW5rxkBaeolXTXHPu7&";
-BASE_URL = "https://api.giphy.com/v1/gifs/trending";
+let API_KEY = "hmXGRe6QrVW6TeCW5rxkBaeolXTXHPu7&";
+let BASE_URL = "https://api.giphy.com/v1/gifs/trending";
 
 /*
 Getting gifs using Trending API
